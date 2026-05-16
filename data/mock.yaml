@@ -1,0 +1,936 @@
+company:
+  name: UnReal Brokerage
+  ticker: NYSE:NRAX
+  cfo: Patricia Okafor
+
+isr_history:
+  - quarter: Q1 2025
+    period: 2025-Q1
+    value: 48
+  - quarter: Q2 2025
+    period: 2025-Q2
+    value: 41
+  - quarter: Q3 2025
+    period: 2025-Q3
+    value: 63
+  - quarter: Q4 2025
+    period: 2025-Q4
+    value: 52
+  - quarter: Q1 2026
+    period: 2026-Q1
+    value: 44
+
+commitment_records:
+
+  # ─── Q1 2025 ───────────────────────────────────────────────────────────────
+
+  - id: CR-Q1Y25-001
+    quarter: Q1 2025
+    period: 2025-Q1
+    created_date: "2025-01-06"
+    owner: Patricia Okafor, CFO
+    title: Seasonal Transaction Volume
+    commitment: >-
+      UnReal Brokerage will close no fewer than 33,500 residential transactions
+      in Q1 2025, consistent with the seasonal deceleration pattern from Q4 and
+      representing the foundation for the peak spring selling season pipeline.
+    foreclosed_alternative: >-
+      UnReal Brokerage will close 38,000 or more transactions in Q1 2025,
+      demonstrating that the platform's agent productivity improvements have
+      materially reduced the seasonal trough.
+    falsifier: >-
+      January closed transaction count falls below 7,500, indicating a pipeline
+      shortfall that cannot be recovered within the quarter even with a strong
+      February and March close.
+    stake: >-
+      VP of Brokerage Operations placed on formal performance review and
+      regional team performance plans revised before the start of Q2.
+    prior_period_adjudication:
+      quarter: Q4 2024
+      status: validated
+      finding: >-
+        Q4 2024 closed with 43,200 transactions, above the 41,000 commitment.
+        Full-year 2024 revenue reached $1.49B. Agent count exited the year at
+        30,100, sustaining the growth trajectory entering the 2025 spring season.
+    resolution:
+      status: validated
+      finding: >-
+        UnReal closed 35,200 transactions in Q1 2025. January delivered 8,100
+        closings, above the 7,500 falsifier threshold. Spring pipeline entering
+        Q2 was 18% above the same point in 2024.
+      date: "2025-04-15"
+
+  - id: CR-Q1Y25-002
+    quarter: Q1 2025
+    period: 2025-Q1
+    created_date: "2025-01-06"
+    owner: Patricia Okafor, CFO
+    title: Agent Platform Retention
+    commitment: >-
+      Total active agents on the UnReal platform will be at or above 30,500
+      at March 31, 2025, reflecting net growth from Q4 2024's year-end count
+      of 30,100 despite seasonal recruiting softness.
+    foreclosed_alternative: >-
+      Total active agents will reach 31,500 or above at March 31, 2025,
+      demonstrating that the platform's value proposition is driving year-round
+      agent additions independent of the spring selling season.
+    falsifier: >-
+      Monthly revenue churn — the percentage of the prior month's revenue
+      attributable to agents who departed — exceeds 2.2% in any single month
+      of Q1 2025.
+    stake: >-
+      Agent experience program overhauled and all recruiting incentives suspended
+      pending a full audit of the churn cohort and a board presentation on
+      platform retention strategy.
+    prior_period_adjudication:
+      quarter: Q4 2024
+      status: validated
+      finding: >-
+        UnReal ended Q4 2024 with 30,100 active agents, above the 29,800
+        commitment. Revenue churn peaked at 1.7% in November and finished Q4
+        at 1.6%, confirming that the agent retention initiatives launched in
+        Q3 2024 were effective.
+    resolution:
+      status: validated
+      finding: >-
+        Active agent count reached 30,840 at March 31, 2025. Revenue churn
+        peaked at 1.9% in February — elevated but below the 2.2% falsifier —
+        driven by post-NAR-settlement attrition in legacy buyer-agent cohorts.
+      date: "2025-04-15"
+
+  - id: CR-Q1Y25-003
+    quarter: Q1 2025
+    period: 2025-Q1
+    created_date: "2025-01-06"
+    owner: Patricia Okafor, CFO
+    title: Gross Profit Target
+    commitment: >-
+      Q1 2025 gross profit will reach $28.5M or above, reflecting a gross
+      margin of at least 8.5% on projected Q1 revenue, consistent with the
+      annual plan and the company's long-term margin architecture.
+    foreclosed_alternative: >-
+      Q1 2025 gross profit will reach $33M or above, reflecting a gross margin
+      of 9.0%+ and demonstrating that the capped-agent mix shift is progressing
+      faster than modeled.
+    falsifier: >-
+      Revenue share expense — the portion of gross commission income paid
+      back to agent-sponsors under the revenue share program — exceeds 5.2%
+      of gross revenue in any single month of Q1 2025.
+    stake: >-
+      Commission structure and revenue share model reviewed with the board of
+      directors before the start of agent recruiting season, with authority
+      granted to revise tier thresholds before April 1.
+    prior_period_adjudication: null
+    resolution:
+      status: validated
+      finding: >-
+        Gross profit was $29.8M in Q1 2025, yielding an 8.7% gross margin
+        on $342M of revenue. Revenue share expense held at 4.9% of gross
+        revenue throughout the quarter.
+      date: "2025-04-15"
+
+  - id: CR-Q1Y25-004
+    quarter: Q1 2025
+    period: 2025-Q1
+    created_date: "2025-01-06"
+    owner: Patricia Okafor, CFO
+    title: Ancillary Revenue Growth
+    commitment: >-
+      Combined revenue from UnReal Mortgage and UnReal Title will reach $3.2M
+      or above in Q1 2025, representing at least 40% year-over-year growth
+      and affirming the attach-rate improvement trajectory established in 2024.
+    foreclosed_alternative: >-
+      Combined ancillary revenue from UnReal Mortgage and UnReal Title will
+      reach $4.0M or above in Q1 2025, demonstrating early traction toward
+      the long-term target of 10%+ of total revenue from ancillary services.
+    falsifier: >-
+      UnReal Mortgage attach rate — the percentage of closed transactions
+      where UnReal Mortgage originated the buyer's loan — falls below 2.8%
+      for any two consecutive months of Q1 2025.
+    stake: >-
+      UnReal Mortgage and UnReal Title division heads placed on 90-day
+      performance review; a third-party strategic partnership for mortgage
+      origination evaluated as an alternative operating model.
+    prior_period_adjudication:
+      quarter: Q4 2024
+      status: validated
+      finding: >-
+        Q4 2024 combined ancillary revenue was $3.1M, above the $2.8M
+        commitment. Mortgage attach rate held at 3.2% in Q4. UnReal Title
+        expanded to six joint ventures in eight states entering 2025.
+    resolution:
+      status: falsified
+      finding: >-
+        Combined ancillary revenue was $2.9M in Q1 2025, below the $3.2M
+        commitment. Mortgage attach rate fell to 2.4% in February — triggering
+        the falsifier for two consecutive months — driven by borrower rate
+        sensitivity following the January Fed commentary on delayed rate cuts.
+      date: "2025-04-15"
+
+  - id: CR-Q1Y25-005
+    quarter: Q1 2025
+    period: 2025-Q1
+    created_date: "2025-01-06"
+    owner: Patricia Okafor, CFO
+    title: Adjusted Operating Expense Ratio
+    commitment: >-
+      Adjusted operating expense as a percentage of Q1 2025 revenue will be
+      at or below 7.5%, reflecting continued operating leverage as agent count
+      and transaction volume scale.
+    foreclosed_alternative: >-
+      Adjusted operating expense will be at or below 6.5% of revenue,
+      demonstrating that the efficiency gains from platform automation are
+      ahead of the operating plan.
+    falsifier: >-
+      Any unplanned legal settlement or litigation accrual exceeds $1.5M
+      in Q1 2025, materially distorting the OpEx ratio and signaling an
+      unmanaged legal liability.
+    stake: >-
+      Legal strategy reviewed by the board and all pending litigation matters
+      brought to the audit committee for individual settlement approval before
+      June 30, 2025.
+    prior_period_adjudication:
+      quarter: Q4 2024
+      status: validated
+      finding: >-
+        Q4 2024 adjusted OpEx ratio was 7.8%, within the committed threshold.
+        No material legal settlements were recorded. The Leo AI agent support
+        tool reduced human support headcount by 14% on a full-year basis.
+    resolution:
+      status: validated
+      finding: >-
+        Adjusted OpEx was 6.9% of revenue in Q1 2025. No litigation settlements
+        were recorded. Leo AI handled 62% of inbound agent support contacts
+        without escalation, a record for the platform.
+      date: "2025-04-15"
+
+  # ─── Q2 2025 ───────────────────────────────────────────────────────────────
+
+  - id: CR-Q2Y25-001
+    quarter: Q2 2025
+    period: 2025-Q2
+    created_date: "2025-04-01"
+    owner: Patricia Okafor, CFO
+    title: Peak Season Transaction Volume
+    commitment: >-
+      UnReal Brokerage will close 50,000 or more residential transactions in
+      Q2 2025, capitalizing on the spring selling season and the 18%-above-prior-year
+      pipeline entering April.
+    foreclosed_alternative: >-
+      UnReal Brokerage will close 56,000 or more transactions in Q2 2025,
+      indicating that agent productivity improvements are materially compressing
+      the seasonal gap relative to the broader market.
+    falsifier: >-
+      April closed transaction count falls more than 15% below March's closing
+      pace, indicating a pipeline air pocket that cannot be recovered within
+      the quarter.
+    stake: >-
+      Enterprise team recruiting program suspended for the remainder of 2025
+      and transaction volume gap presented to the full board as a strategic risk.
+    prior_period_adjudication:
+      quarter: Q1 2025
+      status: validated
+      finding: >-
+        Q1 2025 closed with 35,200 transactions and 30,840 active agents.
+        January delivered 8,100 closings. Spring pipeline entering Q2 was
+        18% above the same point in 2024.
+    resolution:
+      status: validated
+      finding: >-
+        UnReal closed 52,400 transactions in Q2 2025. April pace held within
+        4% of March. Revenue per transaction of $10,320 was a company record.
+        Spring season delivered the strongest quarter in company history.
+      date: "2025-07-16"
+
+  - id: CR-Q2Y25-002
+    quarter: Q2 2025
+    period: 2025-Q2
+    created_date: "2025-04-01"
+    owner: Patricia Okafor, CFO
+    title: Quarterly Revenue Target
+    commitment: >-
+      Total revenue for Q2 2025 will reach $520M or above, reflecting the
+      seasonal volume peak and continued improvement in revenue per transaction
+      as ancillary attach rates grow.
+    foreclosed_alternative: >-
+      Total revenue for Q2 2025 will reach $580M or above, driven by both
+      transaction volume and a meaningful increase in ancillary revenue
+      contribution per closed transaction.
+    falsifier: >-
+      Average revenue per transaction falls below $9,800 in Q2 2025,
+      indicating that capped-agent commission economics are compressing
+      net revenue faster than volume growth can offset.
+    stake: >-
+      Revenue guidance range withdrawn at the next earnings release and
+      replaced with a point estimate; CFO to present revised revenue
+      architecture to the board at the Q3 planning session.
+    prior_period_adjudication:
+      quarter: Q1 2025
+      status: falsified
+      finding: >-
+        Q1 ancillary revenue was $2.9M, below the $3.2M commitment. Mortgage
+        attach rate fell to 2.4% in February, triggering the falsifier for
+        two consecutive months. UnReal Mortgage and UnReal Title division heads
+        placed on 90-day performance review.
+    resolution:
+      status: validated
+      finding: >-
+        Q2 revenue was $541M. Average revenue per transaction was $10,320,
+        above the $9,800 falsifier threshold. Q2 marked the company's first
+        quarter of positive operating income.
+      date: "2025-07-16"
+
+  - id: CR-Q2Y25-003
+    quarter: Q2 2025
+    period: 2025-Q2
+    created_date: "2025-04-01"
+    owner: Patricia Okafor, CFO
+    title: Capped Agent Revenue Contribution
+    commitment: >-
+      Agents who have reached their annual commission cap will contribute
+      at least 48% of total commission revenue in Q2 2025, affirming
+      that the platform's most productive agents are scaling faster than
+      the base and driving operating leverage.
+    foreclosed_alternative: >-
+      Capped agents will contribute 54% or more of total commission revenue
+      in Q2 2025, indicating that the cap-acceleration dynamic has reached
+      a self-reinforcing tipping point.
+    falsifier: >-
+      Net new agent additions — gross additions minus departures — fall below
+      1,500 for the quarter, indicating that agent acquisition has decelerated
+      to a pace inconsistent with the FY2025 operating plan.
+    stake: >-
+      Agent growth strategy redesigned and head of recruiting replaced
+      within 60 days of quarter close; FY2025 agent count guidance revised.
+    prior_period_adjudication:
+      quarter: Q1 2025
+      status: validated
+      finding: >-
+        Q1 2025 active agents reached 30,840. Revenue churn peaked at 1.9%
+        in February but remained below the 2.2% falsifier. Seasonal retention
+        held despite post-NAR-settlement attrition pressure.
+    resolution:
+      status: validated
+      finding: >-
+        Capped agents contributed 51% of commission revenue in Q2 2025, with
+        14% of the agent base having reached their annual cap. Net new agents
+        added in Q2 were 2,240.
+      date: "2025-07-16"
+
+  - id: CR-Q2Y25-004
+    quarter: Q2 2025
+    period: 2025-Q2
+    created_date: "2025-04-01"
+    owner: Patricia Okafor, CFO
+    title: Adjusted EBITDA
+    commitment: >-
+      Adjusted EBITDA for Q2 2025 will reach $18M or above, reflecting the
+      operating leverage inherent in the peak transaction season and the
+      progressive efficiency gains from platform automation.
+    foreclosed_alternative: >-
+      Adjusted EBITDA for Q2 2025 will reach $22M or above, demonstrating
+      that the platform has crossed a threshold of durable quarterly profitability
+      that compounds into the second half.
+    falsifier: >-
+      Stock-based compensation for the agent stock purchase program exceeds
+      $14M in Q2 2025, compressing Adjusted EBITDA below the committed level
+      through a cost that is outside normal operating leverage.
+    stake: >-
+      SBC policy reviewed by the compensation committee and agent stock
+      purchase program terms renegotiated before the start of Q3, with a
+      cap on quarterly SBC expense presented to the board for approval.
+    prior_period_adjudication:
+      quarter: Q1 2025
+      status: validated
+      finding: >-
+        Q1 gross profit was $29.8M (8.7% margin). Adjusted OpEx ratio was
+        6.9% of revenue — below the committed 7.5% — as Leo AI automation
+        handled 62% of agent support contacts without escalation.
+    resolution:
+      status: validated
+      finding: >-
+        Adjusted EBITDA was $20.1M in Q2 2025, above the $18M commitment.
+        Stock-based compensation was $12.4M for the quarter, below the $14M
+        falsifier threshold.
+      date: "2025-07-16"
+
+  - id: CR-Q2Y25-005
+    quarter: Q2 2025
+    period: 2025-Q2
+    created_date: "2025-04-01"
+    owner: Patricia Okafor, CFO
+    title: Operating Cash Flow
+    commitment: >-
+      Operating cash flow for Q2 2025 will be $20M or above, reflecting
+      the strong billings season and continued improvement in the commission
+      payment cycle.
+    foreclosed_alternative: >-
+      Operating cash flow for Q2 2025 will be $28M or above, demonstrating
+      that the payment automation initiative has materially compressed the
+      cash conversion cycle.
+    falsifier: >-
+      Days outstanding on agent commission payments at June 30, 2025 exceeds
+      eight business days, indicating a breakdown in the automated closing
+      and payment processing pipeline.
+    stake: >-
+      CFO authorization required for all payment-terms exceptions beyond
+      five business days; automated commission payment rollout accelerated
+      to all states by September 30, 2025.
+    prior_period_adjudication:
+      quarter: Q1 2025
+      status: validated
+      finding: >-
+        Q1 adjusted OpEx was 6.9% of revenue and no litigation settlements
+        were recorded. Leo AI platform handled 62% of support contacts. No
+        commission payment delays were material in Q1 2025.
+    resolution:
+      status: validated
+      finding: >-
+        Operating cash flow was $22.4M in Q2 2025. Days outstanding on
+        commission payments was 5.3 business days at June 30, well below
+        the eight-day falsifier threshold.
+      date: "2025-07-16"
+
+  # ─── Q3 2025 ───────────────────────────────────────────────────────────────
+
+  - id: CR-Q3Y25-001
+    quarter: Q3 2025
+    period: 2025-Q3
+    created_date: "2025-07-01"
+    owner: Patricia Okafor, CFO
+    title: Post-Peak Transaction Volume
+    commitment: >-
+      UnReal Brokerage will close 45,000 or more residential transactions
+      in Q3 2025, sustaining above-market pace as seasonal activity moderates
+      from the Q2 peak and the summer market softens.
+    foreclosed_alternative: >-
+      UnReal Brokerage will close 50,000 or more transactions in Q3 2025,
+      demonstrating that platform agent productivity improvements are reducing
+      the seasonal deceleration relative to the broader residential market.
+    falsifier: >-
+      September closed transaction count falls more than 18% below August,
+      indicating that the fall pipeline has stalled and Q4 setup is materially
+      weaker than the operating plan assumed.
+    stake: >-
+      Regional team performance plans revised and Brokerage Operations team
+      restructured before October earnings; head of transaction operations placed
+      on a 60-day performance plan.
+    prior_period_adjudication:
+      quarter: Q2 2025
+      status: validated
+      finding: >-
+        Q2 2025 closed with 52,400 transactions at a record $10,320 average
+        revenue per transaction. Revenue was $541M. Company achieved its
+        first quarter of positive operating income.
+    resolution:
+      status: falsified
+      finding: >-
+        UnReal closed 42,100 transactions in Q3 2025, below the 45,000
+        commitment. September fell 21% below August — triggering the falsifier —
+        as rate lock activity collapsed following the August FOMC meeting and
+        a wave of buyer contract cancellations across Sun Belt markets.
+      date: "2025-10-17"
+
+  - id: CR-Q3Y25-002
+    quarter: Q3 2025
+    period: 2025-Q3
+    created_date: "2025-07-01"
+    owner: Patricia Okafor, CFO
+    title: Year-End Agent Count Trajectory
+    commitment: >-
+      Total active agents on the UnReal platform will reach 33,000 or above
+      by September 30, 2025, maintaining the growth trajectory needed to exit
+      2025 above 35,000 agents.
+    foreclosed_alternative: >-
+      Total active agents will reach 34,500 or above by September 30, 2025,
+      putting the platform on track for 37,000+ agents at year-end 2025.
+    falsifier: >-
+      Monthly revenue churn exceeds 2.0% in any single month of Q3 2025,
+      indicating that agent departures have accelerated beyond the historical
+      seasonal baseline.
+    stake: >-
+      Agent retention program restructured before October; exit interview process
+      made mandatory for all departing agents and analyzed by the board at the
+      Q4 planning meeting.
+    prior_period_adjudication:
+      quarter: Q2 2025
+      status: validated
+      finding: >-
+        Q2 2025 net new agent additions were 2,240. Capped agents contributed
+        51% of commission revenue, with 14% of the agent base having reached
+        their annual cap. Agent acquisition pace above plan entering Q3.
+    resolution:
+      status: validated
+      finding: >-
+        Active agent count reached 33,800 at September 30, 2025. Revenue churn
+        peaked at 1.8% in July — below the 2.0% falsifier — despite competitive
+        recruiting pressure from a national franchise brokerage in Q3.
+      date: "2025-10-17"
+
+  - id: CR-Q3Y25-003
+    quarter: Q3 2025
+    period: 2025-Q3
+    created_date: "2025-07-01"
+    owner: Patricia Okafor, CFO
+    title: Gross Margin Resilience
+    commitment: >-
+      Non-GAAP gross margin for Q3 2025 will be at or above 9.0%, demonstrating
+      that the platform's operating leverage is durable beyond the Q2 seasonal
+      peak as capped-agent transaction mix normalizes.
+    foreclosed_alternative: >-
+      Non-GAAP gross margin for Q3 2025 will reach 9.5% or above, indicating
+      that the capped agent mix shift is delivering more operating leverage
+      than the annual plan assumed.
+    falsifier: >-
+      The proportion of closed transactions attributable to capped agents —
+      those who have reached their annual commission cap and now pay no
+      per-transaction fee — exceeds 48% of total transactions in any single
+      month of Q3 2025.
+    stake: >-
+      Commission cap structure reviewed with the board of directors and a
+      presentation on long-term gross margin architecture required within
+      45 days of quarter close.
+    prior_period_adjudication:
+      quarter: Q2 2025
+      status: validated
+      finding: >-
+        Q2 adjusted EBITDA was $20.1M and OCF was $22.4M. Gross profit was
+        $47.9M on $541M revenue. Stock-based compensation was $12.4M for the
+        quarter, below the $14M falsifier threshold.
+    resolution:
+      status: falsified
+      finding: >-
+        Gross margin was 8.6% in Q3 2025, below the 9.0% commitment. Capped
+        agent transactions reached 51% of total in September as more agents
+        hit their annual cap during the peak summer selling season, triggering
+        the falsifier and compressing per-transaction net revenue.
+      date: "2025-10-17"
+
+  - id: CR-Q3Y25-004
+    quarter: Q3 2025
+    period: 2025-Q3
+    created_date: "2025-07-01"
+    owner: Patricia Okafor, CFO
+    title: UnReal Title Attach Rate
+    commitment: >-
+      UnReal Title attach rate — the percentage of platform transactions where
+      UnReal Title performed the closing — will reach 3.5% or above across
+      all Q3 2025 transactions, reflecting continued expansion of the joint
+      venture network.
+    foreclosed_alternative: >-
+      UnReal Title attach rate will reach 5.0% or above in Q3 2025, indicating
+      that the joint venture expansion has crossed a threshold of meaningful
+      revenue contribution.
+    falsifier: >-
+      Fewer than eight UnReal Title joint ventures are active and processing
+      transactions at September 30, 2025.
+    stake: >-
+      Title business expansion plan suspended and the joint venture partnership
+      model reviewed with the board; merger with a national title underwriter
+      evaluated as an alternative structure.
+    prior_period_adjudication:
+      quarter: Q2 2025
+      status: validated
+      finding: >-
+        Q2 OCF was $22.4M. Commission payment days outstanding was 5.3
+        business days at June 30, below the eight-day falsifier. Payment
+        automation rollout ahead of the September 30 deadline.
+    resolution:
+      status: validated
+      finding: >-
+        UnReal Title attach rate was 3.8% in Q3 2025. Ten joint ventures were
+        active across 14 states at September 30, above the eight-JV falsifier
+        threshold. Title revenue grew 38% year-over-year.
+      date: "2025-10-17"
+
+  - id: CR-Q3Y25-005
+    quarter: Q3 2025
+    period: 2025-Q3
+    created_date: "2025-07-01"
+    owner: Patricia Okafor, CFO
+    title: Operating Cash Flow
+    commitment: >-
+      Operating cash flow for Q3 2025 will be $15M or above, sustaining the
+      positive cash generation trajectory established in H1 2025 through
+      the seasonal volume moderation.
+    foreclosed_alternative: >-
+      Operating cash flow for Q3 2025 will reach $22M or above, demonstrating
+      that the payment automation initiative has durably compressed the cash
+      conversion cycle independent of seasonal volume.
+    falsifier: >-
+      Outstanding agent commission payments — the aggregate balance of
+      earned commissions not yet disbursed to agents — exceeds $6M at
+      September 30, 2025.
+    stake: >-
+      Accounts payable process overhauled and commission payment automation
+      expanded to all 50 states by December 31, 2025; VP Finance given
+      expanded authority over payment cycle governance.
+    prior_period_adjudication:
+      quarter: Q2 2025
+      status: validated
+      finding: >-
+        Q2 2025 operating cash flow was $22.4M. Commission payment days
+        outstanding was 5.3 business days — well below the 8-day falsifier.
+        Payment automation handled closings for 49% of transactions in Q2.
+    resolution:
+      status: falsified
+      finding: >-
+        Operating cash flow was $11.8M in Q3 2025, below the $15M commitment.
+        Outstanding commission payments reached $7.2M at September 30 — above
+        the $6M falsifier — due to delays in the automated disbursement system
+        following a platform migration mid-quarter.
+      date: "2025-10-17"
+
+  # ─── Q4 2025 ───────────────────────────────────────────────────────────────
+
+  - id: CR-Q4Y25-001
+    quarter: Q4 2025
+    period: 2025-Q4
+    created_date: "2025-10-01"
+    owner: Patricia Okafor, CFO
+    title: Q4 Transaction Volume
+    commitment: >-
+      UnReal Brokerage will close 48,000 or more residential transactions
+      in Q4 2025, recovering from the Q3 shortfall and affirming that the
+      September rate-driven air pocket was transitory.
+    foreclosed_alternative: >-
+      UnReal Brokerage will close 52,000 or more transactions in Q4 2025,
+      reestablishing peak-pace momentum and positioning the platform for a
+      strong Q1 2026 pipeline.
+    falsifier: >-
+      December closed transaction count falls below 14,000, indicating that
+      the year-end buying surge has materially underperformed the seasonal
+      historical pattern.
+    stake: >-
+      Year-end performance bonus eliminated for Brokerage Operations leadership
+      and a Q4 post-mortem presented to the board before February earnings.
+    prior_period_adjudication:
+      quarter: Q3 2025
+      status: falsified
+      finding: >-
+        Q3 2025 closed with only 42,100 transactions — below the 45,000
+        commitment. September fell 21% below August as rate-lock activity
+        collapsed. Three of five Q3 commitment records were falsified,
+        including gross margin and operating cash flow.
+    resolution:
+      status: validated
+      finding: >-
+        UnReal closed 49,200 transactions in Q4 2025. December delivered
+        15,400 closings, above the 14,000 falsifier. Year-end rate cuts
+        by the Fed drove a strong closing surge in the final three weeks
+        of December.
+      date: "2026-01-20"
+
+  - id: CR-Q4Y25-002
+    quarter: Q4 2025
+    period: 2025-Q4
+    created_date: "2025-10-01"
+    owner: Patricia Okafor, CFO
+    title: Full-Year 2025 Revenue
+    commitment: >-
+      Full-year 2025 total revenue will reach $1.92B or above, sustaining
+      the 40%+ year-over-year growth trajectory despite the Q3 volume miss.
+    foreclosed_alternative: >-
+      Full-year 2025 total revenue will reach $2.0B or above, making UnReal
+      Brokerage the first agent-owned platform brokerage to cross the $2B
+      annual revenue milestone.
+    falsifier: >-
+      Q4 average revenue per transaction falls below $9,400, indicating
+      that margin compression from the capped-agent mix shift is materializing
+      faster than the platform's volume growth can offset.
+    stake: >-
+      Full-year guidance formally missed; investor day postponed 60 days
+      and IR strategy revised with board input before the Q4 earnings release.
+    prior_period_adjudication:
+      quarter: Q3 2025
+      status: falsified
+      finding: >-
+        Q3 gross margin was 8.6%, below the 9.0% commitment. Capped agent
+        transactions reached 51% of total in September, triggering the
+        falsifier. Commission cap structure review presented to the board
+        in November.
+    resolution:
+      status: validated
+      finding: >-
+        Full-year 2025 revenue was $1.97B, narrowly below the $2.0B foreclosed
+        alternative but above the $1.92B commitment. Q4 average revenue per
+        transaction was $10,300, well above the $9,400 falsifier threshold.
+      date: "2026-01-20"
+
+  - id: CR-Q4Y25-003
+    quarter: Q4 2025
+    period: 2025-Q4
+    created_date: "2025-10-01"
+    owner: Patricia Okafor, CFO
+    title: Year-End Agent Count
+    commitment: >-
+      Total active agents on the UnReal platform will reach 35,000 or above
+      at December 31, 2025, sustaining the growth pace from Q3's 33,800
+      and affirming the platform's agent value proposition heading into 2026.
+    foreclosed_alternative: >-
+      Total active agents will reach 37,000 or above at December 31, 2025,
+      reflecting a year-end recruiting surge driven by January cap resets and
+      competitive displacement from legacy brokerage consolidation.
+    falsifier: >-
+      Any single month of Q4 2025 sees net agent attrition — total agent
+      departures exceeding new agent additions for the month — at any point
+      during the quarter.
+    stake: >-
+      Recruiting and retention strategy redesigned and presented to the full
+      board in January 2026; head of agent growth placed on 90-day plan.
+    prior_period_adjudication:
+      quarter: Q3 2025
+      status: falsified
+      finding: >-
+        Q3 OCF was $11.8M — below the $15M commitment. Outstanding commission
+        payments reached $7.2M at September 30, triggering the falsifier due
+        to automated disbursement delays from a platform migration. VP Finance
+        authority over payment cycle governance was expanded.
+    resolution:
+      status: falsified
+      finding: >-
+        Agent count was 34,200 at December 31, 2025 — below the 35,000
+        commitment. October saw net attrition of 180 agents following an
+        aggressive recruiting campaign by a national franchise brokerage
+        that offered cap-reset bonuses for lateral transfers.
+      date: "2026-01-20"
+
+  - id: CR-Q4Y25-004
+    quarter: Q4 2025
+    period: 2025-Q4
+    created_date: "2025-10-01"
+    owner: Patricia Okafor, CFO
+    title: Q4 Adjusted EBITDA
+    commitment: >-
+      Adjusted EBITDA for Q4 2025 will reach $13M or above, demonstrating
+      that full-year profitability is durable through the seasonal volume
+      trough and the cost structure has structurally improved.
+    foreclosed_alternative: >-
+      Adjusted EBITDA for Q4 2025 will reach $16M or above, establishing a
+      full-year 2025 Adjusted EBITDA run rate that supports the FY2026 operating plan.
+    falsifier: >-
+      Any legal settlement or litigation accrual is recorded in Q4 2025
+      in an amount that exceeds $2M in aggregate, materially compressing
+      reported Adjusted EBITDA.
+    stake: >-
+      Full-year Adjusted EBITDA guidance withdrawn and profitability outlook
+      revised at the Q4 earnings release, with board authorization required
+      for all future legal settlements above $500K.
+    prior_period_adjudication:
+      quarter: Q3 2025
+      status: validated
+      finding: >-
+        UnReal Title attach rate was 3.8% in Q3 2025. Ten joint ventures were
+        active in 14 states. Title revenue grew 38% year-over-year. JV
+        expansion remains on track for 16 active partnerships by year-end 2025.
+    resolution:
+      status: validated
+      finding: >-
+        Q4 Adjusted EBITDA was $14.3M. No material legal settlements were
+        recorded in Q4. Full-year 2025 Adjusted EBITDA was $43.7M, representing
+        a 58% increase year-over-year.
+      date: "2026-01-20"
+
+  - id: CR-Q4Y25-005
+    quarter: Q4 2025
+    period: 2025-Q4
+    created_date: "2025-10-01"
+    owner: Patricia Okafor, CFO
+    title: NRax Wallet Revenue
+    commitment: >-
+      NRax Wallet — the agent financial services platform providing business
+      checking, lines of credit, and instant commission advances — will generate
+      $300K or more in revenue in Q4 2025, reflecting the full-quarter impact
+      of the U.S. lines-of-credit product launched in August.
+    foreclosed_alternative: >-
+      NRax Wallet will generate $450K or more in Q4 2025, indicating that
+      the lines-of-credit product has achieved early product-market fit and
+      is on a trajectory to exceed $2M in annualized revenue in 2026.
+    falsifier: >-
+      Active NRax Wallet users — agents with at least one transaction on
+      the platform in the trailing 30 days — falls below 5,500 at any point
+      during Q4 2025.
+    stake: >-
+      NRax Wallet product strategy reviewed and roadmap revised before the
+      Q1 2026 earnings release; partnership with an external fintech provider
+      evaluated as an accelerant to agent adoption.
+    prior_period_adjudication:
+      quarter: Q3 2025
+      status: validated
+      finding: >-
+        Q3 2025 active agent count reached 33,800. Revenue churn peaked at
+        1.8% in July — below the 2.0% falsifier — despite competitive
+        recruiting pressure in Q3.
+    resolution:
+      status: validated
+      finding: >-
+        NRax Wallet generated $347K in Q4 2025. Active users reached 6,200
+        at December 31, above the 5,500 falsifier threshold. Lines of credit
+        extended totaled $4.8M in Q4 2025 alone.
+      date: "2026-01-20"
+
+  # ─── Q1 2026 (current quarter — CRUD enabled) ──────────────────────────────
+
+  - id: CR-Q1Y26-001
+    quarter: Q1 2026
+    period: 2026-Q1
+    created_date: "2026-01-06"
+    owner: Patricia Okafor, CFO
+    title: Seasonal Transaction Floor
+    commitment: >-
+      UnReal Brokerage will close no fewer than 32,000 residential transactions
+      in Q1 2026, establishing the seasonal floor consistent with the platform's
+      historical Q1-to-Q4 ratio and the 34,200-agent base entering the year.
+    foreclosed_alternative: >-
+      UnReal Brokerage will close 36,000 or more transactions in Q1 2026,
+      demonstrating that the January cap reset and year-over-year agent growth
+      are durably lifting the seasonal floor.
+    falsifier: >-
+      January closed transaction count falls below 6,800, indicating a pipeline
+      shortfall driven by agent attrition or buyer-demand weakness that cannot
+      be recovered before March 31.
+    stake: >-
+      Q1 2026 transaction guidance withdrawn at the February earnings update
+      and H1 cadence revised with board input before the April earnings release.
+    prior_period_adjudication:
+      quarter: Q4 2025
+      status: validated
+      finding: >-
+        Q4 2025 closed with 49,200 transactions and December delivered 15,400
+        closings — above the 14,000 falsifier threshold. The year-end rate
+        cut drove a strong closing surge in the final three weeks of December.
+    resolution:
+      status: pending
+
+  - id: CR-Q1Y26-002
+    quarter: Q1 2026
+    period: 2026-Q1
+    created_date: "2026-01-06"
+    owner: Patricia Okafor, CFO
+    title: Agent Platform Growth
+    commitment: >-
+      Total active agents on the UnReal platform will reach 37,000 or above
+      by March 31, 2026, recovering from the year-end attrition and
+      capitalizing on the January cap reset that drives the highest recruiting
+      conversion rates of the year.
+    foreclosed_alternative: >-
+      Total active agents will reach 39,000 or above by March 31, 2026,
+      indicating that the retention improvements and January cap-reset recruiting
+      push have more than offset the Q4 attrition pattern.
+    falsifier: >-
+      Monthly revenue churn exceeds 2.0% in any single month of Q1 2026,
+      indicating that agent departure rates have not normalized following
+      the Q4 competitive recruiting disruption.
+    stake: >-
+      Agent experience leadership restructured and head of recruiting reporting
+      line revised before April earnings; retention-focused incentive program
+      proposed to the board for Q2 implementation.
+    prior_period_adjudication:
+      quarter: Q4 2025
+      status: falsified
+      finding: >-
+        Year-end agent count was 34,200 — below the 35,000 commitment. October
+        saw net attrition of 180 agents following an aggressive cap-reset bonus
+        campaign by a national franchise brokerage. Recruiting and retention
+        strategy redesigned and presented to the board in January 2026.
+    resolution:
+      status: pending
+
+  - id: CR-Q1Y26-003
+    quarter: Q1 2026
+    period: 2026-Q1
+    created_date: "2026-01-06"
+    owner: Patricia Okafor, CFO
+    title: Gross Profit Target
+    commitment: >-
+      Q1 2026 gross profit will reach $31M or above, reflecting an 8.8%
+      or better gross margin on projected Q1 revenue and demonstrating
+      that the commission cap structure review from Q3 2025 has stabilized
+      the capped-agent margin dynamics.
+    foreclosed_alternative: >-
+      Q1 2026 gross profit will reach $35M or above, reflecting a 9.5%+
+      gross margin as the commission cap reset at January 1 temporarily
+      reduces the proportion of capped-agent transactions.
+    falsifier: >-
+      Revenue share expense — the portion of gross commission income paid
+      to agent-sponsors under the revenue share program — exceeds 5.0%
+      of gross revenue in Q1 2026.
+    stake: >-
+      Commission structure and revenue share model revised before April
+      earnings and the board authorized to suspend the revenue share program
+      for new agent enrollments if the threshold is breached.
+    prior_period_adjudication:
+      quarter: Q4 2025
+      status: validated
+      finding: >-
+        Q4 Adjusted EBITDA was $14.3M. No material legal settlements were
+        recorded. Full-year 2025 Adjusted EBITDA was $43.7M, a 58% increase
+        year-over-year. Cost structure improvements are sustainable entering 2026.
+    resolution:
+      status: pending
+
+  - id: CR-Q1Y26-004
+    quarter: Q1 2026
+    period: 2026-Q1
+    created_date: "2026-01-06"
+    owner: Patricia Okafor, CFO
+    title: UnReal Mortgage Attach Rate Recovery
+    commitment: >-
+      UnReal Mortgage attach rate — the percentage of platform transactions
+      where UnReal Mortgage originated the buyer's loan — will recover to
+      4.0% or above across all Q1 2026 transactions, reversing the 2.4%
+      trough reached in February 2025 and reflecting the rate environment
+      improving since the Fed's December 2025 cuts.
+    foreclosed_alternative: >-
+      UnReal Mortgage attach rate will reach 5.0% or above in Q1 2026,
+      demonstrating that the improved rate environment has catalyzed a
+      structural increase in agent referrals to the in-house mortgage division.
+    falsifier: >-
+      Fewer than 75 licensed UnReal Mortgage loan officers are actively
+      originating loans on the platform during Q1 2026.
+    stake: >-
+      UnReal Mortgage division placed under formal strategic review; merger
+      with an external mortgage partner evaluated as an alternative and board
+      decision required before June 30, 2026.
+    prior_period_adjudication:
+      quarter: Q4 2025
+      status: validated
+      finding: >-
+        NRax Wallet generated $347K in Q4 2025 and active users reached 6,200.
+        Lines of credit extended totaled $4.8M in Q4 2025. NRax Wallet is on
+        track for $2M+ in annualized 2026 revenue.
+    resolution:
+      status: pending
+
+  - id: CR-Q1Y26-005
+    quarter: Q1 2026
+    period: 2026-Q1
+    created_date: "2026-01-06"
+    owner: Patricia Okafor, CFO
+    title: Adjusted Operating Expense Ratio
+    commitment: >-
+      Adjusted operating expense as a percentage of Q1 2026 revenue will be
+      at or below 7.0%, demonstrating continued operating leverage as the
+      Leo AI platform automation and payment system improvements compound
+      into a structurally lower cost base.
+    foreclosed_alternative: >-
+      Adjusted operating expense will be at or below 6.0% of revenue in
+      Q1 2026, confirming that automation-driven efficiency gains have
+      reached a self-sustaining compounding pace.
+    falsifier: >-
+      Total headcount — excluding licensed agents — increases by more than
+      15 net employees during Q1 2026, adding fixed cost at a rate that
+      precludes reaching the committed OpEx ratio.
+    stake: >-
+      All hiring frozen for the remainder of H1 2026 pending board approval;
+      CFO sign-off required for all new headcount requisitions above manager level.
+    prior_period_adjudication:
+      quarter: Q4 2025
+      status: validated
+      finding: >-
+        Full-year 2025 revenue was $1.97B on 49,200 Q4 transactions. Adjusted
+        EBITDA was $43.7M for the full year. Q4 revenue per transaction of
+        $10,300 was a company record, affirming the revenue architecture heading
+        into 2026.
+    resolution:
+      status: pending
